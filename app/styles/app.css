@@ -1,3 +1,29 @@
 html, body {
   margin: 20px;
+  font-family: Tahoma, sans-serif;
+}
+
+textarea {
+  width: 600px;
+  
+  border: 3px solid #cccccc;
+  padding: 5px;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+}
+
+button {
+  margin-left: auto;
+  margin-right: auto;
+}
+.form {
+  width: 50%;
+  margin-right: auto;
+  float: left;
+}
+.notes {
+  float: right;
+  width: 50%;
+  line-height: 1.5em;
+  margin-left: auto;
 }
